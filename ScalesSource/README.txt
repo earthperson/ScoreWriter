@@ -6,5 +6,7 @@
 
 Играя гаммы, вы сможете уже так же свободно, не задумываясь, направлять ваши пальцы, легко будете импровизировать с другими музыкантами или сочинять собственные мелодии.
 
-[https://ru.wikipedia.org/wiki/Гамма_(музыка)](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BC%D0%BC%D0%B0_(%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0))
+[https://ru.wikipedia.org/wiki/Гамма_(музыка)][1]
+
+[1]: https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BC%D0%BC%D0%B0_(%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0)
 
