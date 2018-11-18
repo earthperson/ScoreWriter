@@ -1,2 +1,3 @@
 # Scorewriter
-https://learningmusic.ableton.com
+
+[Learning Music](https://learningmusic.ableton.com)
