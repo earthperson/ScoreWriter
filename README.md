@@ -1,4 +1,4 @@
-# Scorewriter
+# ScoreWriter
 
 * [MuseScore](https://musescore.com/user/30462361)
 * [SoundCloud – Listen to free music and podcasts on SoundCloud](https://soundcloud.com/earthperson2)
